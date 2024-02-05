@@ -6,7 +6,7 @@ A live-data stock-market app with real-time connections to APIs using a websocke
 
 **Backend**:
 
-- Firestore: [Firebase](https://firebase.google.com/)
+- Database: [Firestore Firebase](https://firebase.google.com/)
 - API with real-time data: [Finnhub](https://finnhub.io)
 - API with historical data: [IEX Cloud](https://iexcloud.io)
 
@@ -26,5 +26,5 @@ A live-data stock-market app with real-time connections to APIs using a websocke
 
 [IEX Cloud](https://iexcloud.io),
 [FinnHub](https://finnhub.io),
-Project design inspiration: [Dribbble](https://dribbble.com/shots/16777094-Stock-Market-Mobile-App),
-Stock icons: [icons8](https://icons8.com/)
+project design inspiration: [Dribbble](https://dribbble.com/shots/16777094-Stock-Market-Mobile-App),
+stock icons: [icons8](https://icons8.com/)
