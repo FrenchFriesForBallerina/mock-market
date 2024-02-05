@@ -7,12 +7,12 @@ A live-data stock-market app with real-time connections to APIs using a websocke
 **Backend**:
 
 - Firestore: [Firebase](https://firebase.google.com/)
-- API with real-time data: - https://finnhub.io
-- API with historical data: - https://iexcloud.io
+- API with real-time data: - [Finnhub](https://finnhub.io)
+- API with historical data: - [IEX Cloud](https://iexcloud.io)
 
 **Frontend**:
 
-- State management with Provider pattern: - https://docs.flutter.dev/data-and-backend/state-mgmt/simple
+- Flutter, state management with [Provider pattern](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)
 
 # True Nerd Quest: Run Project Locally
 
@@ -20,7 +20,7 @@ A live-data stock-market app with real-time connections to APIs using a websocke
 - Clone this repo to your machine.
 - Run `flutter pub get`
 - Run `main.dart` file with debugger (`ctrl+F5` in VSCode)
-- Enjoy the app, go treat yourself to stocks you've never had the money for.
+- Enjoy the app, go treat yourself to stocks you've never had the (fake) money for.
 
 ## Attributions
 
